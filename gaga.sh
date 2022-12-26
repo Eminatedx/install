@@ -3,5 +3,5 @@ curl -o app-linux-amd64.tar.gz https://assets.coreservice.io/public/package/22/a
 sudo ./app service start
 ./app status
 sleep 20
-sudo ./apps/gaganode/gaganode config set --token=ukkwfcpknkzmqlwdepujkhkt
+sudo ./apps/gaganode/gaganode config set --token=anwulfvcncvvxvjzrbkfdsml
 ./app restart

@@ -1,0 +1,17 @@
+token = "pfnsybfhiijhmbjvhmnkjzfk"
+tracking_id = "MAIN-PC"
+version = '1.0.4'
+package_id=27
+
+os ="os"    # ['os','android','windows','linux','mac','ios'] , for 'os' program will try auto-detect
+os_name ="os_name"
+os_version="os_version"
+product="product"
+
+
+[log]
+level = 'INFO'
+
+
+[server]
+host = "https://api.gaganode.com"
